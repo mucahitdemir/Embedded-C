@@ -1,0 +1,46 @@
+2021-11-18 12:21:53,022 [INFO] Activator:170 - 
+
+
+2021-11-18 12:21:53,024 [INFO] Activator:171 - !SESSION log4j initialized
+2021-11-18 12:22:39,863 [INFO] Activator:170 - 
+
+
+2021-11-18 12:22:39,865 [INFO] Activator:171 - !SESSION log4j initialized
+2021-11-18 13:56:29,135 [INFO] Activator:170 - 
+
+
+2021-11-18 13:56:29,137 [INFO] Activator:171 - !SESSION log4j initialized
+2021-11-18 15:11:25,825 [INFO] Activator:170 - 
+
+
+2021-11-18 15:11:25,827 [INFO] Activator:171 - !SESSION log4j initialized
+2021-11-25 17:11:27,550 [INFO] Activator:170 - 
+
+
+2021-11-25 17:11:27,553 [INFO] Activator:171 - !SESSION log4j initialized
+2021-12-03 08:16:19,080 [INFO] Activator:170 - 
+
+
+2021-12-03 08:16:19,084 [INFO] Activator:171 - !SESSION log4j initialized
+2022-01-01 16:41:52,732 [INFO] Activator:170 - 
+
+
+2022-01-01 16:41:52,735 [INFO] Activator:171 - !SESSION log4j initialized
+2022-01-03 15:54:18,675 [INFO] Activator:170 - 
+
+
+2022-01-03 15:54:18,680 [INFO] Activator:171 - !SESSION log4j initialized
+2022-01-03 15:55:22,765 [INFO] RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://download.eclipse.org:443: Socket operation on nonsocket: configureBlocking
+2022-01-03 15:55:22,773 [INFO] RetryExec:113 - Retrying request to {s}->https://download.eclipse.org:443
+2022-01-05 22:24:52,424 [INFO] Activator:170 - 
+
+
+2022-01-05 22:24:52,428 [INFO] Activator:171 - !SESSION log4j initialized
+2022-01-14 19:35:59,340 [INFO] Activator:170 - 
+
+
+2022-01-14 19:35:59,343 [INFO] Activator:171 - !SESSION log4j initialized
+2022-01-15 20:55:09,435 [INFO] Activator:170 - 
+
+
+2022-01-15 20:55:09,437 [INFO] Activator:171 - !SESSION log4j initialized
